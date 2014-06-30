@@ -1,0 +1,10 @@
+	<style>
+        #bio {
+            background-color: red;
+            font-family: monospace;
+            font-size: 22px;
+        }
+    	</style>
+
+
+	<div id="bio">This is my bio; please be honest about yourself.</div>
