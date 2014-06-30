@@ -4119,6 +4119,9 @@ pre {
 }
 
 /*Site menu experiment */
+#logo {
+	font-size: 1.5em;
+}
 nav[role="navigation"] {
 	color:#fff;
 	background:#222;
