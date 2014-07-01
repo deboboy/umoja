@@ -4124,7 +4124,8 @@ pre {
 }
 nav[role="navigation"] {
 	color:#fff;
-	background:#222;
+	/*change to red palette from #222*/
+	background:#CC0000;
 	position:fixed;
 	top:0;
 	left:0;
